@@ -1,5 +1,0 @@
-Architecture Diagram: Simple LAN with:
-1 Switch (8-port)
-2–4 PCs
-All PCs are in the same subnet.
-ARP protocol is used when one PC pings another; MAC address is resolved using ARP
