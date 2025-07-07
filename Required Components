@@ -1,0 +1,6 @@
+| Component                            | Quantity         | Purpose                  |
+| ------------------------------------ | ---------------- | ------------------------ |
+| PC                                   | 4                | End Devices              |
+| 2960 Switch                          | 2                | Networking switch        |
+| LAN Cables (Copper straight-through) | 6                 | To connect PCs to switch |
+| Cisco Packet Tracer                  | Software         | Simulation               |
