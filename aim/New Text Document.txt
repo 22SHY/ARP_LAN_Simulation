@@ -1,1 +1,0 @@
-Understand how ARP resolves IP to MAC address in a LAN setup and visualize it through simulation using Cisco Packet Tracer.
